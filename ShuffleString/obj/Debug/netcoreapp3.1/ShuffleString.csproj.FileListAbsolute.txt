@@ -1,0 +1,13 @@
+C:\Users\abmoh\source\repos\ShuffleString\ShuffleString\bin\Debug\netcoreapp3.1\ShuffleString.exe
+C:\Users\abmoh\source\repos\ShuffleString\ShuffleString\bin\Debug\netcoreapp3.1\ShuffleString.deps.json
+C:\Users\abmoh\source\repos\ShuffleString\ShuffleString\bin\Debug\netcoreapp3.1\ShuffleString.runtimeconfig.json
+C:\Users\abmoh\source\repos\ShuffleString\ShuffleString\bin\Debug\netcoreapp3.1\ShuffleString.runtimeconfig.dev.json
+C:\Users\abmoh\source\repos\ShuffleString\ShuffleString\bin\Debug\netcoreapp3.1\ShuffleString.dll
+C:\Users\abmoh\source\repos\ShuffleString\ShuffleString\bin\Debug\netcoreapp3.1\ShuffleString.pdb
+C:\Users\abmoh\source\repos\ShuffleString\ShuffleString\obj\Debug\netcoreapp3.1\ShuffleString.csprojAssemblyReference.cache
+C:\Users\abmoh\source\repos\ShuffleString\ShuffleString\obj\Debug\netcoreapp3.1\ShuffleString.csproj.CoreCompileInputs.cache
+C:\Users\abmoh\source\repos\ShuffleString\ShuffleString\obj\Debug\netcoreapp3.1\ShuffleString.AssemblyInfoInputs.cache
+C:\Users\abmoh\source\repos\ShuffleString\ShuffleString\obj\Debug\netcoreapp3.1\ShuffleString.AssemblyInfo.cs
+C:\Users\abmoh\source\repos\ShuffleString\ShuffleString\obj\Debug\netcoreapp3.1\ShuffleString.dll
+C:\Users\abmoh\source\repos\ShuffleString\ShuffleString\obj\Debug\netcoreapp3.1\ShuffleString.pdb
+C:\Users\abmoh\source\repos\ShuffleString\ShuffleString\obj\Debug\netcoreapp3.1\ShuffleString.genruntimeconfig.cache
